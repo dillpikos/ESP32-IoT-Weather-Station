@@ -1,2 +1,3 @@
 # ESP32-IoT-Weather-Station
-ESP-32 based weather station (work in progress)
+IOT based ESP-32 weather station that collects data from sensors and modules and
+sendd it and displays it onto self-hosted webpage
