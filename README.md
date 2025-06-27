@@ -1,5 +1,5 @@
 # ESP32-IoT-Weather-Station
-IoT based ESP-32 weather station that collects data from sensors and modules and
-sendd it and displays it onto self-hosted webpage
+An ESP-32 IoT based embedded system that hosts it's own WiFi network using ESP32's Soft Access Point mode to display
+real time weather and time data through a responsive web-based UI
+*created by Bryan Diaz | Focus: Embedded Systems and hardware*
 
-*currently working on a soldered version*
