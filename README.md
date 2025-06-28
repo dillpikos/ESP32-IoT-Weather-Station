@@ -31,12 +31,14 @@ This systems displays weather and time realted data onto a web-page hosted by th
     + JavaScript (SetInterval & fetch functions: requests data every second and sends it to webpage to get live chaning data)
 + Soft AP Configuration (ESP-32 is programmed to be a WiFi and webserver access point)
   </br>
-+ Various libraries for compenets:
+  </br>
++ Various libraries:
     + RTCLib
     + DHT
     + WiFi (wifi library for ESP-32)
     + WebServer (webserver library for ESP-32)
  
 ## Wire Setup
++ *[Wiring Schematic](IoTWeatherStationDiagram.png)*
 
 
