@@ -2,7 +2,7 @@
 An ESP-32 IoT based embedded system that hosts it's own WiFi network and web page to display
 real time weather and time data through a responsive web-based UI
 </br>
-*created by Bryan Diaz | Focus: Embedded Systems and hardware*
+*created by Bryan Diaz | Focus: Embedded Systems, IoT, hardware*
 
 # Project Overview
 Fully functional prototype of an IoT embedded system built using the ESP-32 and it's Soft Access Point mode
@@ -28,6 +28,6 @@ This systems displays weather and time realted data onto a web-page hosted by th
 + *Embedded Web Technologies (used for UI)*
     + HTML
     + CSS
-    + JavaScript (
+    + JavaScript ( SetInterval() & fetch functions: 
 
 
