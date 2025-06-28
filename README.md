@@ -42,5 +42,14 @@ This systems displays weather and time realted data onto a web-page hosted by th
 + *[Wiring Schematic](IoTWeatherStationDiagram.png)*
 
 # System Features
++ No WiFi needed to operate
++ ESP-32 creates it's own WiFi network
++ Web-Interface: once user is connected to network; user can connect to webpage by searching IP into any search engine
++ *Displays Time and Weather related data on clean embedded UI*
++ User responsive UI/ Theme toggle (via button on webpage)
+
+# Brief Notes
+
+# System DEMO
 
 
