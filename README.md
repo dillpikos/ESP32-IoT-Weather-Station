@@ -41,4 +41,6 @@ This systems displays weather and time realted data onto a web-page hosted by th
 ## Wire Setup
 + *[Wiring Schematic](IoTWeatherStationDiagram.png)*
 
+# System Features
+
 
