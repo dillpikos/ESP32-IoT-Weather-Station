@@ -193,7 +193,7 @@ const char index_html[] PROGMEM = R"rawliteral(
             
         }
 
-        body.lightMode #VL1{  /*do this to each verticle and horizontal line to change theme, get rid of any inline colors defined in the html to do so play around with it*/
+        body.lightMode #VL1{
             border-left: 3px solid rgb(50, 58, 69);
         }
 
