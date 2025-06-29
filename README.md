@@ -55,7 +55,7 @@ After making the initial prototype on a breadboard I decided to transfer the cir
 # System DEMO
 <img src = "https://github.com/user-attachments/assets/2c198dd4-7f36-4538-a97c-18a471ddff9d" width = "500" height = "450"/> 
 </br>
-<img src = "https://github.com/user-attachments/assets/1f4d39b4-e37c-43df-b9d2-100bac5804b2" width = "520" height = "450"/> <img src = "https://github.com/user-attachments/assets/2cbf61d6-d23c-4c61-bc88-beb428092c60" width = "520" height = "450"/>
+<img src = "https://github.com/user-attachments/assets/1f4d39b4-e37c-43df-b9d2-100bac5804b2" width = "500" height = "450"/> <img src = "https://github.com/user-attachments/assets/2cbf61d6-d23c-4c61-bc88-beb428092c60" width = "500" height = "450"/>
 
 
 
