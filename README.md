@@ -49,6 +49,8 @@ This systems displays weather and time realted data onto a web-page hosted by th
 + User responsive UI/ Theme toggle (via button on webpage)
 
 # Brief Notes
+After making the initial prototype on a breadboard I decided to transfer the circuit onto a perfboard so this system could be more usable and permanent. I assembled everything with the idea of minimizing wire clutter along with mainting good power distribution throughout the entire system.
+*When setting the RTC module for date and time: user has to set it twice (first = initial set) (second = //comment out initial set so it doesn't reset upon plug in of device)*
 
 # System DEMO
 
