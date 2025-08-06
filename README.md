@@ -11,9 +11,9 @@ to create it's own WiFi network allowing user's that are connected to access a w
 This system is designed to be simple, compact, and efficient where it doens't have to rely on being connected to an external WiFi network in order to display data.
 I built this to further explore concepts of embedded systems along with the goal of broadening my expirence with different types of microcontrollers and their methods.
 
-This systems displays weather and time related data onto a web-page hosted by the ESP-32 that was made using embedded HTML,CSS, and JavaScript to give the user a nice and clean UI that they have option the change using a button to better suit their environment.
+This systems displays weather and time related data onto a web-page hosted by the ESP-32 that was made using embedded HTML, CSS, and JavaScript to give the user a nice and clean UI that they have option the change using a button to better suit their environment.
 
-# Technologies and Componenets
+# Technologies and Components
 ## Hardware Related
 + ESP-32
 + MQ-135 (air quality sensor)
