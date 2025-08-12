@@ -1,4 +1,4 @@
-# ESP32-IoT-Weather-Station
+# ESP32-IoT-Weather-Hub
 An ESP-32 IoT based embedded system that hosts it's own WiFi network and web page to display
 real time weather and time data through a responsive web-based UI
 </br>
